@@ -17,6 +17,8 @@ public class Test2_MainClass extends Test1_MainClass {
                 { true, new int[] { 4, 1, 1, 4 } },
                 { false, new int[] { 0, 9, 2, 3, 4 } },
                 { true, new int[] { 1, 1, 4, 4, 1 } },
+                { false, new int[] { 1, 1, 1, 1 } },
+                { false, new int[] { 4, 4, 4 } },
                 { false, new int[] { } }
         });
     }
